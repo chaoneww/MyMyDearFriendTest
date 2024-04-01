@@ -16,6 +16,5 @@ public class member {
 		this.memName = memName;
 	}
 	
-	
 
 }
