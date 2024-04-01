@@ -1,23 +1,23 @@
 package com.tibame.mymydearfriend.member.model;
 
 public class Member {
-	private Integer id;
-	private String name;
+	private Integer memNO;
+	private String memName;
 
-	public Integer getId() {
-		return id;
+	public Integer getMemNO() {
+		return memNO;
 	}
 
-	public void setId(Integer id) {
-		this.id = id;
+	public void setMemNO(Integer memNO) {
+		this.memNO = memNO;
 	}
 
-	public String getName() {
-		return name;
+	public String getMemName() {
+		return memName;
 	}
 
-	public void setName(String name) {
-		this.name = name;
+	public void setMemName(String memName) {
+		this.memName = memName;
 	}
 
 }
